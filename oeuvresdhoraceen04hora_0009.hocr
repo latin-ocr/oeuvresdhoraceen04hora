@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oeuvresdhoraceen04hora/oeuvresdhoraceen04hora_0009.png"; bbox 0 0 1706 3004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1081 1240 1148">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 1081 1240 1148">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 1081 1240 1148; baseline 0.002 -10"><span class='ocrx_word' id='word_1_1' title='bbox 357 1081 616 1138; x_wconf 77' lang='lat' dir='ltr'><strong>TOME</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 666 1082 1240 1148; x_wconf 73' lang='lat' dir='ltr'><strong>QUATRIEME&#39;.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 257 1244 1407 1370">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 257 1244 1407 1370">
+     <span class='ocr_line' id='line_1_2' title="bbox 257 1244 1363 1308; baseline 0.003 -11"><span class='ocrx_word' id='word_1_3' title='bbox 257 1251 523 1300; x_wconf 72' lang='lat' dir='ltr'><em>centenam</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 547 1244 611 1299; x_wconf 79' lang='lat' dir='ltr'><em>les</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 636 1250 818 1297; x_wconf 75' lang='lat' dir='ltr'><em>Livres</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 844 1249 923 1295; x_wconf 83' lang='lat' dir='ltr'><em>IV.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 953 1245 1020 1308; x_wconf 61' lang='grc' dir='ltr'><em>ὠ·</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1043 1252 1102 1307; x_wconf 74' lang='lat' dir='ltr'><em>V.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1126 1248 1203 1300; x_wconf 79' lang='lat' dir='ltr'><em>des</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1231 1248 1363 1301; x_wconf 65' lang='lat' dir='ltr'><em>Odae?</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 677 1316 1407 1370; baseline -0.001 0"><span class='ocrx_word' id='word_1_11' title='bbox 677 1316 723 1370; x_wconf 77' lang='lat' dir='ltr'><em>d&#39;</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 730 1320 920 1368; x_wconf 77' lang='lat' dir='ltr'><em>Horace.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1345 1322 1353 1326; x_wconf 69' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1404 1322 1407 1323; x_wconf 69' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
